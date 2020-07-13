@@ -15,7 +15,7 @@ My name is Tyler Lowrey and I am a senior in Computer Science at Clemson Univers
 :large_orange_diamond:&nbsp;Java &nbsp;&nbsp;:large_orange_diamond:&nbsp;C# &nbsp;&nbsp;:large_orange_diamond:&nbsp;C &nbsp;&nbsp;:large_orange_diamond:&nbsp;JavaScript
 
 ## Interests
-Professionally, I am interested in Cloud Computing, Computer Networking, and Full-Stack or Back-End Web Development. Other than that, I love to modify video game servers and tinkering with robotics. I am currently the Lead Programming Mentor for FRC Team 283 [@FRC283](https://github.com/FRC283).
+Professionally, I am interested in Cloud Computing, Computer Networking, and Full-Stack or Back-End Web Development. Other than that, I love to modify video game servers and tinker with robotics. Most of my time working with robotics is spent serving as the Lead Programming Mentor for FRC ([FIRST Robotics Competition](https://www.firstinspires.org/)) Team 283 [@FRC283](https://github.com/FRC283).
 
 ## Technologies & Languages I'm Learning
 :crab:&nbsp;Rust &nbsp;&nbsp;:red_circle:&nbsp;Kotlin &nbsp;&nbsp;:red_circle:&nbsp;TornadoFX
