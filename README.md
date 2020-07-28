@@ -3,7 +3,7 @@
 </p>
 
 # Hello There!
-My name is Tyler Lowrey and I am a senior in Computer Science at Clemson University. If you are currently hiring, I am available for work starting in August and I am willing to relocate.
+My name is Tyler Lowrey and I am a senior in Computer Science at Clemson University. If you are currently hiring, I will be available for work starting in August and I am willing to relocate.
 
 ## Connect With Me
 :link:&nbsp;[LinkedIn](https://www.linkedin.com/in/tylerlowrey/) &nbsp;&nbsp;:link:&nbsp;[My GitLab](https://gitlab.com/tylerlowrey) &nbsp;&nbsp;:email:&nbsp;[Contact@TylerLowrey.com](mailto:contact@tylerlowrey.com)
