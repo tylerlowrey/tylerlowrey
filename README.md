@@ -3,10 +3,10 @@
 </p>
 
 # Hello There!
-My name is Tyler Lowrey and I am a senior in Computer Science at Clemson University. If you are currently hiring, I will be available for work starting in August and I am willing to relocate.
+My name is Tyler Lowrey and I am a graduate in Computer Science from Clemson University. I currently work as a Software Developer in the Greenville, SC area.
 
 ## Connect With Me
-:link:&nbsp;[LinkedIn](https://www.linkedin.com/in/tylerlowrey/) &nbsp;&nbsp;:link:&nbsp;[My GitLab](https://gitlab.com/tylerlowrey) &nbsp;&nbsp;:email:&nbsp;[Contact@TylerLowrey.com](mailto:contact@tylerlowrey.com)
+:link:&nbsp;[LinkedIn](https://www.linkedin.com/in/tylerlowrey/) &nbsp;&nbsp;:email:&nbsp;[Contact@TylerLowrey.com](mailto:contact@tylerlowrey.com)
 
 ## Technologies I've Worked With
 :large_blue_diamond:&nbsp;React   &nbsp;&nbsp;:large_blue_diamond:&nbsp;Spring Boot &nbsp;&nbsp;:large_blue_diamond:&nbsp;Docker &nbsp;&nbsp;:large_blue_diamond:&nbsp;Android
@@ -18,4 +18,4 @@ My name is Tyler Lowrey and I am a senior in Computer Science at Clemson Univers
 Professionally, I am interested in Cloud Computing, Computer Networking, and Full-Stack or Back-End Web Development. Other than that, I love to modify video game servers and tinker with robotics. Most of my time working with robotics is spent serving as the Lead Programming Mentor for FRC ([FIRST Robotics Competition](https://www.firstinspires.org/)) Team 283 [@FRC283](https://github.com/FRC283).
 
 ## Technologies & Languages I'm Learning
-:crab:&nbsp;Rust &nbsp;&nbsp;:red_circle:&nbsp;Kotlin &nbsp;&nbsp;:red_circle:&nbsp;TornadoFX
+:crab:&nbsp;Rust &nbsp;&nbsp;:red_circle:&nbsp;ASP.NET Core
