@@ -17,5 +17,5 @@ My name is Tyler Lowrey and I am a graduate in Computer Science from Clemson Uni
 ## Interests
 Professionally, I am interested in Cloud Computing, Computer Networking, and Full-Stack Web Development. Other than that, I love to modify video game servers and tinker with robotics.
 
-##Languages I'm Learning
+## Languages I'm Learning
 :crab:&nbsp;Rust &nbsp;&nbsp;:red_circle:&nbsp;Scala
