@@ -9,7 +9,7 @@ My name is Tyler Lowrey and I am a graduate in Computer Science from Clemson Uni
 :link:&nbsp;[LinkedIn](https://www.linkedin.com/in/tylerlowrey/)
 
 ## Technologies I've Worked With
-:large_blue_diamond:&nbsp;React   &nbsp;&nbsp;:large_blue_diamond:&nbsp;Spring Boot &nbsp;&nbsp;:large_blue_diamond:&nbsp;Docker
+:large_blue_diamond:&nbsp;React   &nbsp;&nbsp;:large_blue_diamond:&nbsp;Jersey &nbsp;&nbsp;:large_blue_diamond:&nbsp;ASP.Net Core &nbsp;&nbsp;:large_blue_diamond:&nbsp;Docker
 
 ## Programming Languages I Know
 :large_orange_diamond:&nbsp;Java &nbsp;&nbsp;:large_orange_diamond:&nbsp;C# &nbsp;&nbsp;:large_orange_diamond:&nbsp;C &nbsp;&nbsp;:large_orange_diamond:&nbsp;JavaScript
