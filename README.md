@@ -12,10 +12,10 @@ My name is Tyler Lowrey and I am a graduate in Computer Science from Clemson Uni
 :large_blue_diamond:&nbsp;React   &nbsp;&nbsp;:large_blue_diamond:&nbsp;Jersey &nbsp;&nbsp;:large_blue_diamond:&nbsp;ASP.Net Core &nbsp;&nbsp;:large_blue_diamond:&nbsp;Docker
 
 ## Programming Languages I Know
-:large_orange_diamond:&nbsp;Java &nbsp;&nbsp;:large_orange_diamond:&nbsp;C# &nbsp;&nbsp;:large_orange_diamond:&nbsp;C &nbsp;&nbsp;:large_orange_diamond:&nbsp;JavaScript
+:large_orange_diamond:&nbsp;Java &nbsp;&nbsp;:large_orange_diamond:&nbsp;C# &nbsp;&nbsp;:large_orange_diamond:&nbsp;TypeScript &nbsp;&nbsp;:large_orange_diamond:&nbsp;JavaScript &nbsp;&nbsp;:large_orange_diamond:&nbsp;Rust
 
 ## Interests
-Professionally, I am interested in Cloud Computing, Computer Networking, and Full-Stack Web Development. Other than that, I love to modify video game servers and tinker with robotics.
+Professionally, I am interested in Cloud Computing, Computer Networking, and Full-Stack Web Development. Other than that, I love to mod video game servers and tinker with robotics.
 
 ## Languages I'm Learning
-:crab:&nbsp;Rust &nbsp;&nbsp;:red_circle:&nbsp;Scala
+:red_circle:&nbsp;Scala
