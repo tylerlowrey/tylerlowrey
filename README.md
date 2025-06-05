@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" src="https://tlowrey-images.s3.amazonaws.com/tl_logo_notxt_circle_500x500.png">
+  <img width="250" src="https://storage.googleapis.com/tylerlowrey-public-images/t_logo_circle.png">
 </p>
 
 # Hello There!
